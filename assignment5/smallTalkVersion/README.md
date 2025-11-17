@@ -2,15 +2,6 @@
 
 A Smalltalk demonstration of Object-Oriented Programming principles: Encapsulation, Inheritance, and Polymorphism.
 
-## Files
-
-- `Ride.st` - Base Ride class
-- `StandardRide.st` - Standard ride subclass
-- `PremiumRide.st` - Premium ride subclass
-- `Driver.st` - Driver class with encapsulation
-- `Rider.st` - Rider class
-- `RideSharingDemo.st` - Demonstration script
-
 ## Requirements
 
 - A Smalltalk environment (Pharo, Squeak, GNU Smalltalk, or similar)
